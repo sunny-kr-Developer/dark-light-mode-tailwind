@@ -1,0 +1,4 @@
+ run this command in the 1st terminal
+ npx tailwindcss -i ./src/input.css -o ./src/dist/output.css --watch  
+  run this command in the 2nd terminal                                      
+npm run dev
